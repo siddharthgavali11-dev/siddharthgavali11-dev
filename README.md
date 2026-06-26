@@ -2,8 +2,6 @@
 # 💫 About Me:
 🎓 B.Tech Computer Science and Business Systems <br>💻 Passionate about Web Development & Programming<br>🚀 Skilled in HTML, CSS, JavaScript, Java, and Python<br>🌱 Currently learning: Advanced Frontend Development & Projects<br>🎯 Goal: To become a skilled Software Developer and build impactful applications<br>📌 I enjoy creating user-friendly websites and exploring new technologies<br>
 
-
-## 🌐 Socials:
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/17e6UMTr3M/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/imsidd1109?igsh=MTd6bDkxcXd3YW43ZA==)
