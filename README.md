@@ -11,6 +11,8 @@
 📍 Sangli, Maharashtra, India<br>
 
 ## 🌐 Socials:
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://siddharth-portfolio-rho.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/17e6UMTr3M/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/imsidd1109?igsh=MTd6bDkxcXd3YW43ZA==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-gavali-84b68a2a6)
